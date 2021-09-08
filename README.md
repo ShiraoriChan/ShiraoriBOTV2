@@ -38,6 +38,7 @@
 can cause your number to be blocked if used frequently
 administrator [`add`, `kick`]
 
+##### --self [Just us alone]
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER
@@ -74,5 +75,5 @@ administrator [`add`, `kick`]
 
 [`bsbt`](https://bsbt-api-rest.herokuapp.com)
 
-##### donation
+##### Donated
 [`Saweria`](https://saweria.co/manilman)
