@@ -43,9 +43,11 @@
 can cause your number to be blocked if used frequently
 administrator [`add`, `kick`]
 
-### --self [Just us alone]
+### --self
+Juts us alone
 
 ### --autoread [if enabled all incoming messages will be marked as read]
+if
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER
