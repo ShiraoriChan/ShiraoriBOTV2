@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://media.giphy.com/media/Xr2km20NNBNqSN6iwu/giphy.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.donmai.us%2Foriginal%2F68%2F3b%2F683b31afec19e54c026b07e5be4242a5.jpg&imgrefurl=https%3A%2F%2Fdanbooru.donmai.us%2Fposts%2F4618539&tbnid=bdGdaBNpLL7ObM&vet=1&docid=9kOKpGFRCKQUEM&w=640&h=906&source=sh%2Fx%2Fim" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">SHIRAORI BOT V2</h1>
 
