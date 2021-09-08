@@ -39,7 +39,7 @@
 
 ### Session
 
-### --restrict [example >node . --restrict]
+### --restrict [example > node . --restrict]
 can cause your number to be blocked if used frequently
 administrator [`add`, `kick`]
 
@@ -58,7 +58,7 @@ if enabled all incoming massage will be marked as read
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
 > git clone https://github.com/Hidayatilman/ShiraoriBOTV2
-> cd botstylee
+> cd ShiraoriBOTV2
 > npm install
 ```
 ###### Run
