@@ -33,7 +33,8 @@
 ```
 
 ##### Session
-*--restrict [example] >node . --restrict
+
+###### --restrict [example >node . --restrict]
 can cause your number to be blocked if used frequently
 administrator [`add`, `kick`]
 
