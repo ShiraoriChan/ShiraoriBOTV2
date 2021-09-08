@@ -73,3 +73,6 @@ administrator [`add`, `kick`]
 
 
 [`bsbt`](https://bsbt-api-rest.herokuapp.com)
+
+##### donation
+[`Saweria`](https://saweria.co/manilman)
