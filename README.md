@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/Xr2km20NNBNqSN6iwu/giphy.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">SHIRAORI BOT</h1>
+<h1 align="center">SHIRAORI BOT V2</h1>
 
 
 
@@ -23,13 +23,14 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/botstylee/botstylee
-> cd botstylee
+> git clone https://github.com/Hidayatilman/ShiraoriBOTV2
+> cd ShiraoriBOTV2
 > npm install
 ```
 ###### Run
 ```bash
 > node . [<session name>] (session name is optional)
+##### Session 
 ```
 
 ---------
