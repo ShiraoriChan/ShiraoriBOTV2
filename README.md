@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://www.instagram.com/p/CQ59APyLTMt/?utm_medium=copy_link" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">SHIRAORI BOT V2</h1>
 
