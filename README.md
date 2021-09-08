@@ -30,8 +30,12 @@
 ###### Run
 ```bash
 > node . [<session name>] (session name is optional)
-##### Session 
 ```
+
+##### Session
+*--restrict [example] >node . --restrict
+can cause your number to be blocked if used frequently
+administrator [`add`, `kick`]
 
 ---------
 
