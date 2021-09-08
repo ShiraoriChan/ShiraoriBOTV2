@@ -1,4 +1,11 @@
-# SHIRAORI BOT V2
+<p align="center">
+	<img src="https://media.giphy.com/media/Xr2km20NNBNqSN6iwu/giphy.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">SHIRAORI BOT</h1>
+
+
+
+
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/games-wabot?label=Stars&color=yellow&style=flat-square"></a>
