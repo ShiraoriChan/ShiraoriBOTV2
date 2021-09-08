@@ -32,13 +32,15 @@
 > node . [<session name>] (session name is optional)
 ```
 
-##### Session
+### Session
 
-###### --restrict [example >node . --restrict]
+### --restrict [example >node . --restrict]
 can cause your number to be blocked if used frequently
 administrator [`add`, `kick`]
 
-##### --self [Just us alone]
+### --self [Just us alone]
+
+### --autoread [if enabled all incoming messages will be marked as read]
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER
