@@ -18,6 +18,8 @@
 ### my contact
 
 * [`Whatsapp`](wa.me/6281351047727)
+* [`Instagram`](https://instagram.com/ilmanfrzhdyt)
+* [`My Bot`](wa.me/+48699515364)
 
 ### FOR TERMUX USER
 ```bash
