@@ -4,6 +4,13 @@
 <h1 align="center">SHIRAORI BOT V2</h1>
 
 
+## FOR USER HEROKU
+
+### Instal Buildpack
+* heroku/nodejs
+* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+
 
 
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
