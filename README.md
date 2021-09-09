@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://media.discordapp.net/attachments/868417706104332349/885518312572866580/ezgif.com-gif-maker2.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">SHIRAORI BOT V2</h1>
 
