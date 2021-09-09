@@ -11,7 +11,9 @@
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 * https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
+## `--server`
 
+used for [heroku](https://heroku.com/) or scan through the website
 
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
