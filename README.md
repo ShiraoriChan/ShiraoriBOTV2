@@ -4,16 +4,7 @@
 <h1 align="center">SHIRAORI BOT V2</h1>
 
 
-## FOR USER HEROKU
 
-### Instal Buildpack
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-
-## `--server`
-
-used for [heroku](https://heroku.com/) or scan through the website
 
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Hidayatilman/ShiraoriBOTV2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
@@ -59,6 +50,17 @@ Juts us alone
 if enabled all incoming massage will be marked as read
 
 ---------
+
+## FOR USER HEROKU
+
+### Instal Buildpack
+* heroku/nodejs
+* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+
+## `--server`
+
+used for [heroku](https://heroku.com/) or scan through the website
 
 ### FOR WINDOWS/VPS/RDP USER
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
