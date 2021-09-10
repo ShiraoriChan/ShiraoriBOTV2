@@ -40,7 +40,8 @@
 
 ### --restrict [example > node . --restrict]
 can cause your number to be blocked if used frequently
-administrator [`add`, `kick`, `promote`, `demote`]
+administrator
+[`add`, `kick`, `promote`, `demote`]
 
 ### --self
 Juts us alone
