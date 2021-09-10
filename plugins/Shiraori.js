@@ -6,7 +6,7 @@ Haiiikk Goshujin-sama
 `.trim(), m)
     let mentionedJid = [m.sender]
 }
-handler.customPrefix = /Shiraori/i
+handler.customPrefix = /@+48699515364/i
 handler.command = new RegExp
 
 module.exports = handler
